@@ -1,1 +1,1 @@
-# DOAS--Detekcija-Krivotvorenih-Novcanica
+# DOAS Projekt: Detekcija i Klasifikacija Novčanica
